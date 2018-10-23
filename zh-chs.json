@@ -10,7 +10,7 @@
   "qor_5A97C3E8_1" : "1",
   "qor_5A97C3EB_downtime_outages" : "互聯網應用需要全球網絡基礎設施的規模和彈性，以應對流量高峰和意外停機或中斷。 性能和可靠性服務必須包含安全性以阻止新的和復雜的攻擊，同時確保快速入門和易於配置的功能，以防止因維護，中斷和錯誤配置而導致的停機時間。",
   "qor_5A97C3EC_global_scale" : "世界規模",
-  "qor_5A97C3EF_globals_site" : "Cloudflare的全球Anycast網絡由{{globals['site']['DataCenterCount']}}數據中心組成，跨越{{globals['site']['CountryCount']}}國家/地區，提供可擴展的基礎架構骨幹網，可防止停機和不可用。",
+  "qor_5A97C3EF_globals_site" : "Cloudflare的全球Anycast網絡由數據中心組成，{{globals['site']['DataCenterCount']}}跨越{{globals['site']['CountryCount']}}國家/地區，提供可擴展的基礎架構骨幹網，可防止停機和不可用。",
   "qor_5A97C3F1_ease_of_use" : "使用方便",
   "qor_5A97C3F4_integrated_security" : "綜合安全",
   "qor_5A97C3F4_internet_applications" : "設置Cloudflare只需5分鐘。 易於使用的儀表板可以快速配置細粒度功能，從而提高Internet應用程序和API的可用性和性能。",
